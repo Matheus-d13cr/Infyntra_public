@@ -120,21 +120,6 @@
 
 ---
 
-## 💳 **Formas de Pagamento**
-
-### **💰 Métodos Aceitos**
-- 💳 **Cartão de Crédito** (Visa, Mastercard, Elo)
-- 🏦 **Boleto Bancário** (à vista ou parcelado)
-- 💸 **PIX** (desconto de 5%)
-- 🏢 **Transferência Bancária**
-- 💼 **Faturamento Corporativo** (Personalizado)
-
-### **📅 Ciclos de Cobrança**
-- **Mensal**: Flexibilidade total
-- **Anual**: Desconto especial (consulte vendas)
-
----
-
 ## 📞 **Fale com Vendas**
 
 ### **🎯 Quer um plano personalizado?**
