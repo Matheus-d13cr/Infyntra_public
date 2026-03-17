@@ -145,21 +145,21 @@ GET /api/empresas?estado=SP&cnae=6201-5&limite=25
 ## 💰 **Planos e Preços**
 
 ### **Starter (Gratuito)**
-- ✅ Até 150 empresas por busca
+- ✅ Até 150 empresas por mês
 - ✅ 150 empresas no CRM
 - ✅ Exportação CSV
 - ✅ CRM completo
 - 💰 **Gratuito**
 
 ### **Profissional (Mais Popular)**
-- ✅ Até 10.000 empresas por busca
+- ✅ Até 10.000 empresas por mês
 - ✅ 10.000 empresas no CRM
 - ✅ Análise de mercado
 - ✅ Suporte WhatsApp
 - 💰 **R$ 59,90/mês**
 
 ### **Premium**
-- ✅ Até 65.000 empresas por busca
+- ✅ Até 65.000 empresas por mês
 - ✅ 65.000 empresas no CRM
 - ✅ Análise avançada
 - ✅ Suporte prioritário

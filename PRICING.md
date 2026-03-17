@@ -15,7 +15,7 @@
 | Funcionalidade | **Starter** | **Profissional** | **Premium** | **Personalizado** |
 |----------------|:-----------:|:----------------:|:-----------:|:-----------------:|
 | **💰 Preço** | **Grátis** | **R$ 59,90/mês** | **R$ 128,90/mês** | **R$ 299/mês** |
-| **🔍 Empresas por busca** | Até 150 | Até 10.000 | Até 65.000 | Limites customizados |
+| **🔍 Empresas por mês** | Até 150 | Até 10.000 | Até 65.000 | Limites customizados |
 | **💼 Empresas no CRM** | 150 | 10.000 | 65.000 | Ilimitadas |
 | **📤 Exportação CSV** | ✅ | ✅ | ✅ | ✅ |
 | **💼 CRM completo** | ✅ | ✅ | ✅ | ✅ |
@@ -37,7 +37,7 @@
 </div>
 
 ### **✅ Incluído:**
-- 🔍 **Até 150 empresas por busca**
+- 🔍 **Até 150 empresas por mês**
 - 💼 **150 empresas no CRM**
 - 📤 **Exportação CSV**
 - 💼 **CRM completo**
@@ -61,7 +61,7 @@
 </div>
 
 ### **✅ Tudo do Starter +**
-- 🔍 **Até 10.000 empresas por busca**
+- 🔍 **Até 10.000 empresas por mês**
 - 💼 **10.000 empresas no CRM**
 - 📊 **Análise de mercado**
 - 📱 **Suporte WhatsApp** (horário comercial)
@@ -84,7 +84,7 @@
 </div>
 
 ### **✅ Tudo do Profissional +**
-- 🔍 **Até 65.000 empresas por busca**
+- 🔍 **Até 65.000 empresas por mês**
 - 💼 **65.000 empresas no CRM**
 - 📊 **Análise de mercado avançada**
 - 📱 **Suporte WhatsApp prioritário**
