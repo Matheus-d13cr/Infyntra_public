@@ -144,27 +144,33 @@ GET /api/empresas?estado=SP&cnae=6201-5&limite=25
 
 ## 💰 **Planos e Preços**
 
-### **Freemium**
-- ✅ 100 buscas/mês
-- ✅ Filtros básicos
-- ✅ Suporte por email
+### **Starter (Gratuito)**
+- ✅ Até 150 empresas por busca
+- ✅ 150 empresas no CRM
+- ✅ Exportação CSV
+- ✅ CRM completo
 - 💰 **Gratuito**
 
-### **Profissional**
-- ✅ 10.000 buscas/mês
-- ✅ Todos os filtros
-- ✅ API completa
+### **Profissional (Mais Popular)**
+- ✅ Até 10.000 empresas por busca
+- ✅ 10.000 empresas no CRM
 - ✅ Análise de mercado
-- ✅ Suporte prioritário
-- 💰 **R$ 297/mês**
+- ✅ Suporte WhatsApp
+- 💰 **R$ 59,90/mês**
 
-### **Enterprise**
-- ✅ Buscas ilimitadas
-- ✅ API dedicada
-- ✅ Integrações customizadas
-- ✅ Suporte 24/7
-- ✅ SLA garantido
-- 💰 **Sob consulta**
+### **Premium**
+- ✅ Até 65.000 empresas por busca
+- ✅ 65.000 empresas no CRM
+- ✅ Análise avançada
+- ✅ Suporte prioritário
+- 💰 **R$ 128,90/mês**
+
+### **Personalizado**
+- ✅ Limites customizados
+- ✅ Recursos exclusivos
+- ✅ Suporte dedicado
+- ✅ Treinamento incluído
+- 💰 **R$ 299/mês**
 
 **📋 [Ver Todos os Planos](PRICING.md)**
 

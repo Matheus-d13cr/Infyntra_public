@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Escolha o plano ideal para sua empresa**
+**Escolha o plano ideal para potencializar sua prospecção**
 
 *Todos os planos incluem suporte técnico e atualizações gratuitas*
 
@@ -12,22 +12,111 @@
 
 ## 📊 **Comparativo de Planos**
 
-| Funcionalidade | **Freemium** | **Starter** | **Professional** | **Enterprise** |
-|----------------|:------------:|:-----------:|:----------------:|:--------------:|
-| **💰 Preço** | **Gratuito** | **R$ 97/mês** | **R$ 297/mês** | **Sob consulta** |
-| **🔍 Buscas/mês** | 100 | 2.500 | 10.000 | Ilimitadas |
-| **📊 Base de dados** | ✅ 69M empresas | ✅ 69M empresas | ✅ 69M empresas | ✅ 69M empresas |
-| **🎯 Classificador IA** | ❌ | ✅ 500/mês | ✅ 5.000/mês | ✅ Ilimitado |
-| **📈 Análise de mercado** | ❌ | ✅ Básica | ✅ Avançada | ✅ Completa |
-| **🔗 API** | ❌ | ✅ 1.000 calls/mês | ✅ 50.000 calls/mês | ✅ Ilimitada |
-| **💼 CRM integrado** | ❌ | ✅ 100 empresas | ✅ 2.500 empresas | ✅ Ilimitado |
-| **📊 Relatórios** | ❌ | ✅ Básicos | ✅ Avançados | ✅ Customizados |
-| **🔄 Integrações** | ❌ | ✅ 2 integrações | ✅ 10 integrações | ✅ Ilimitadas |
-| **🆘 Suporte** | E-mail | E-mail + Chat | Prioritário | Dedicado 24/7 |
-| **👥 Usuários** | 1 | 3 | 10 | Ilimitados |
-| **📱 App Mobile** | ❌ | ✅ | ✅ | ✅ |
-| **🔐 SSO** | ❌ | ❌ | ✅ | ✅ |
-| **📋 SLA** | ❌ | 99% | 99.5% | 99.9% |
+| Funcionalidade | **Starter** | **Profissional** | **Premium** | **Personalizado** |
+|----------------|:-----------:|:----------------:|:-----------:|:-----------------:|
+| **💰 Preço** | **Grátis** | **R$ 59,90/mês** | **R$ 128,90/mês** | **R$ 299/mês** |
+| **🔍 Empresas por busca** | Até 150 | Até 10.000 | Até 65.000 | Limites customizados |
+| **💼 Empresas no CRM** | 150 | 10.000 | 65.000 | Ilimitadas |
+| **📤 Exportação CSV** | ✅ | ✅ | ✅ | ✅ |
+| **💼 CRM completo** | ✅ | ✅ | ✅ | ✅ |
+| **📊 Análise de mercado** | ❌ | ✅ | ✅ | ✅ |
+| **📱 Suporte WhatsApp** | E-mail | Horário comercial | Horário comercial | Dedicado |
+| **🎯 Ideal para** | Começar | Pequenas empresas | Médias empresas | Grandes empresas |
+| **📈 Recursos exclusivos** | ❌ | ❌ | ❌ | Sob demanda |
+| **🛠️ Suporte técnico** | ❌ | ❌ | ❌ | Treinamento |
+
+---
+
+## 🆓 **Plano Starter (Gratuito)**
+
+<div align="center">
+
+### **Gratuito para sempre**
+*Ideal para começar e testar a plataforma*
+
+</div>
+
+### **✅ Incluído:**
+- 🔍 **Até 150 empresas por busca**
+- 💼 **150 empresas no CRM**
+- 📤 **Exportação CSV**
+- 💼 **CRM completo**
+- 📧 **Suporte por e-mail**
+
+### **🎯 Ideal para:**
+- Freelancers
+- Pequenos empreendedores
+- Testes e avaliação da plataforma
+- Uso inicial e aprendizado
+
+---
+
+## ⭐ **Plano Profissional (Mais Popular)**
+
+<div align="center">
+
+### **R$ 59,90/mês**
+*Ideal para pequenas empresas de vendas*
+
+</div>
+
+### **✅ Tudo do Starter +**
+- 🔍 **Até 10.000 empresas por busca**
+- 💼 **10.000 empresas no CRM**
+- 📊 **Análise de mercado**
+- 📱 **Suporte WhatsApp** (horário comercial)
+
+### **🎯 Ideal para:**
+- Pequenas empresas (2-10 funcionários)
+- Equipes de vendas iniciantes
+- Consultores de vendas
+- Agências pequenas
+
+---
+
+## 🏆 **Plano Premium**
+
+<div align="center">
+
+### **R$ 128,90/mês**
+*Para empresas em crescimento*
+
+</div>
+
+### **✅ Tudo do Profissional +**
+- 🔍 **Até 65.000 empresas por busca**
+- 💼 **65.000 empresas no CRM**
+- 📊 **Análise de mercado avançada**
+- 📱 **Suporte WhatsApp prioritário**
+
+### **🎯 Ideal para:**
+- Médias empresas (10-50 funcionários)
+- Equipes de vendas estruturadas
+- Empresas B2B consolidadas
+- Agências de marketing
+
+---
+
+## 🎯 **Plano Personalizado**
+
+<div align="center">
+
+### **R$ 299/mês**
+*Sob medida para grandes empresas*
+
+</div>
+
+### **✅ Recursos Exclusivos:**
+- 🏢 **Limites customizados de empresas**
+- 🔧 **Recursos exclusivos sob demanda**
+- 🎓 **Suporte dedicado e treinamento**
+- 📞 **Falar com Vendas** para configuração
+
+### **🎯 Ideal para:**
+- Grandes corporações (50+ funcionários)
+- Multinacionais
+- Empresas com necessidades específicas
+- Integrações complexas
 
 ---
 
@@ -38,12 +127,25 @@
 - 🏦 **Boleto Bancário** (à vista ou parcelado)
 - 💸 **PIX** (desconto de 5%)
 - 🏢 **Transferência Bancária**
-- 💼 **Faturamento Corporativo** (Enterprise)
+- 💼 **Faturamento Corporativo** (Personalizado)
 
 ### **📅 Ciclos de Cobrança**
 - **Mensal**: Flexibilidade máxima
-- **Anual**: 2 meses grátis (17% desconto)
-- **Bienal**: 4 meses grátis (Enterprise)
+- **Anual**: Desconto especial (consulte vendas)
+
+---
+
+## 🎁 **Promoções Especiais**
+
+### **🚀 Desconto de Lançamento**
+- **30% OFF** nos primeiros 3 meses
+- **Código**: `INFYNTRA30`
+- **Válido até**: 31/12/2024
+
+### **📚 Plano Educacional**
+- **50% de desconto** para universidades
+- **Gratuito** para estudantes (com comprovação)
+- **Contato**: educacao@infyntra.com
 
 ---
 
@@ -56,6 +158,42 @@ Nossa equipe pode criar uma proposta sob medida para sua empresa.
 - 📱 **WhatsApp**: +55 11 99999-9999
 - 📞 **Telefone**: +55 11 3333-4444
 - 💬 **Chat**: Disponível no site 24/7
+
+### **📅 Agende uma Demo**
+Veja o Infyntra em ação com seus próprios dados!
+
+**[🎥 Agendar Demo Gratuita](https://calendly.com/infyntra-demo)**
+
+---
+
+## ❓ **Perguntas Frequentes**
+
+### **💰 Posso cancelar a qualquer momento?**
+Sim! Não há fidelidade. Cancele quando quiser pelo painel ou suporte.
+
+### **🔄 Posso mudar de plano?**
+Claro! Upgrade imediato ou downgrade no próximo ciclo.
+
+### **📊 Os dados ficam salvos se eu cancelar?**
+Sim, mantemos seus dados por 90 dias para facilitar a reativação.
+
+### **🎯 Posso testar antes de assinar?**
+Sim! Use o plano Starter gratuito ou solicite uma demo personalizada.
+
+### **💳 Há taxa de setup?**
+Não! Todos os planos são ativados gratuitamente.
+
+---
+
+## 🏆 **Garantia de Satisfação**
+
+### **✅ 30 Dias de Garantia**
+Não ficou satisfeito? Devolvemos 100% do seu dinheiro nos primeiros 30 dias.
+
+### **🎯 Garantia de Resultados**
+- **3x mais leads qualificados** ou seu dinheiro de volta
+- **50% redução no tempo** de prospecção garantida
+- **ROI positivo** em até 60 dias
 
 ---
 
