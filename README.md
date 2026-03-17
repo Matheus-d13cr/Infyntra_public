@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Infyntra Logo](https://via.placeholder.com/300x100/0066CC/FFFFFF?text=INFYNTRA)
+![Infyntra](logo.svg)
 
 **A Maior Base de Dados de Empresas do Brasil**
 
@@ -80,7 +80,7 @@
 ## 🖥️ **Screenshots**
 
 ### Dashboard Principal
-![Dashboard](screenshots/dashboard-principal.png)
+![Dashboard](screenshots/Dashboard.png)
 *Visão geral com métricas em tempo real e análises de mercado*
 
 ### Busca Avançada
