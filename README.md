@@ -26,7 +26,7 @@
 ### **🚀 Por que Infyntra?**
 - **Base Massiva**: 69+ milhões de empresas brasileiras atualizadas
 - **Performance Extrema**: Buscas em menos de 100ms
-- **Inteligência Artificial**: Classificação automática de leads
+- **Classificação Avançada**: Sistema de qualificação de leads
 - **API Robusta**: Integração simples e documentada
 - **Análise de Mercado**: Insights profundos por setor e região
 
@@ -44,13 +44,13 @@
 - **Análises Setoriais**: Distribuição por CNAE e região
 - **Dados Compilados**: Relatórios pré-processados
 - **Benchmarking**: Compare mercados e regiões
-- **Insights Automáticos**: IA identifica oportunidades
+- **Insights Avançados**: Identifique oportunidades de mercado
 
 ### 🎯 **Classificação de Leads**
 - **Pool Personalizado**: 10k empresas por usuário
-- **IA de Classificação**: Like, Dislike, Maybe automático
+- **Sistema de Classificação**: Like, Dislike, Maybe
 - **Processamento em Lote**: Eficiência máxima
-- **Scoring Inteligente**: Qualificação automática
+- **Sistema de Scoring**: Qualificação de leads
 
 ### 💼 **Ferramentas B2B**
 - **CRM Integrado**: Gestão completa de leads
@@ -89,7 +89,7 @@
 
 ### Classificador de Leads
 ![Classificador](screenshots/classificador-leads.png)
-*Sistema de classificação inteligente com IA integrada*
+*Sistema de classificação avançada para qualificação de leads*
 
 ### Análise de Mercado
 ![Análise](screenshots/analise-mercado.png)
@@ -176,54 +176,22 @@ GET /api/empresas?estado=SP&cnae=6201-5&limite=25
 
 ---
 
-## 🏆 **Casos de Sucesso**
-
-### **🚀 StartupTech: De 0 a R$ 2M em 12 meses**
-- 800% aumento em leads qualificados
-- 65% redução no CAC
-- Série A de R$ 15M captada
-
-### **🏢 MegaCorp: Transformação Digital**
-- R$ 50M em vendas adicionais
-- 450% aumento no pipeline
-- 60% redução no ciclo de vendas
-
-**📖 [Ver Todos os Casos](case-studies/)**
-
----
+## 📞 **Contato**
 
 ## 📚 **Documentação Completa**
 
 ### **🎯 Recursos Principais**
 - [🚀 **Funcionalidades Detalhadas**](FEATURES.md) - Explore todos os recursos
 - [💰 **Planos e Preços**](PRICING.md) - Encontre o plano ideal
-- [🛡️ **Segurança e Compliance**](SECURITY.md) - Proteção de nível empresarial
-- [🔗 **Integrações**](INTEGRATIONS.md) - Conecte com suas ferramentas
+- [📸 **Screenshots**](SCREENSHOTS.md) - Veja a interface em ação
 
 ### **📖 Documentação Técnica**
 - [🚀 **Guia de Início Rápido**](docs/quickstart.md) - Comece em 10 minutos
-- [🎓 **Tutoriais Completos**](docs/tutorials.md) - Aprenda passo a passo
 - [📋 **Referência da API**](docs/api.md) - Documentação técnica completa
-- [📸 **Screenshots**](SCREENSHOTS.md) - Veja a interface em ação
 
 ### **💻 Exemplos de Código**
 - [🐘 **Integração PHP**](examples/php-integration.md) - Exemplos práticos em PHP
-- [🟨 **Integração JavaScript**](examples/javascript-integration.md) - Frontend e Node.js
 - [🔧 **Mais Exemplos**](examples/) - Outras linguagens
-
----
-
-## 📞 **Contato**
-
-### **Comercial**
-- 📧 **Email**: vendas@infyntra.com
-- 📱 **WhatsApp**: +55 11 99999-9999
-- 🌐 **Site**: [www.infyntra.com](https://www.infyntra.com)
-
-### **Suporte Técnico**
-- 📧 **Email**: suporte@infyntra.com
-- 💬 **Chat**: Disponível 24/7 na plataforma
-- 📚 **Documentação**: [docs.infyntra.com](https://docs.infyntra.com)
 
 ---
 

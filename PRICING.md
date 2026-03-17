@@ -145,7 +145,7 @@
 ### **📚 Plano Educacional**
 - **50% de desconto** para universidades
 - **Gratuito** para estudantes (com comprovação)
-- **Contato**: educacao@infyntra.com
+- **Contato**: matheus@stacksflow.io
 
 ---
 
@@ -154,15 +154,15 @@
 ### **🎯 Quer um plano personalizado?**
 Nossa equipe pode criar uma proposta sob medida para sua empresa.
 
-- 📧 **E-mail**: vendas@infyntra.com
-- 📱 **WhatsApp**: +55 11 99999-9999
-- 📞 **Telefone**: +55 11 3333-4444
-- 💬 **Chat**: Disponível no site 24/7
+- 📧 **E-mail**: matheus@stacksflow.io
+- 📱 **WhatsApp**: +55 11 97676-1886
+- 📞 **Site**: [https://matheus.stacksflow.io/](https://matheus.stacksflow.io/)
+- 💬 **Chat**: Disponível via WhatsApp
 
 ### **📅 Agende uma Demo**
 Veja o Infyntra em ação com seus próprios dados!
 
-**[🎥 Agendar Demo Gratuita](https://calendly.com/infyntra-demo)**
+**[🎥 Agendar Demo Gratuita](https://matheus.stacksflow.io/)**
 
 ---
 
@@ -201,7 +201,7 @@ Não ficou satisfeito? Devolvemos 100% do seu dinheiro nos primeiros 30 dias.
 
 **Pronto para revolucionar sua prospecção B2B?**
 
-[🚀 **Começar Agora**](https://app.infyntra.com/register) • [📞 **Falar com Vendas**](https://wa.me/5511999999999)
+[🚀 **Começar Agora**](https://matheus.stacksflow.io/) • [📞 **Falar com Vendas**](https://wa.me/5511976761886)
 
 *Junte-se a mais de 10.000 empresas que já transformaram suas vendas com o Infyntra*
 

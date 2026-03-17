@@ -194,6 +194,6 @@ curl -X GET "https://api.infyntra.com/v1/analises/mercado?cnae=6201-5&estado=SP"
 
 **Precisa de ajuda com a integração?**
 
-[💬 **Suporte Técnico**](mailto:developers@infyntra.com) • [📚 **Mais Exemplos**](../examples/)
+[💬 **Suporte Técnico**](mailto:matheus@stacksflow.io) • [📚 **Mais Exemplos**](../examples/)
 
 </div>

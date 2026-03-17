@@ -14,7 +14,7 @@
 
 ### **1️⃣ Criar Conta**
 ```
-🔗 Acesse: https://app.infyntra.com/register
+🔗 Acesse: https://matheus.stacksflow.io/
 
 📝 Preencha:
   ├── Nome completo
@@ -112,16 +112,16 @@ Tempo: 87ms
 
 ## 🎯 **Classificação de Leads**
 
-### **🤖 Ativar Classificador IA**
+### **🤖 Sistema de Classificação**
 
 #### **Configuração Inicial:**
 ```
-⚙️ Configurar IA:
-  ├── Acesse: Menu > Classificador IA
+⚙️ Configurar Sistema:
+  ├── Acesse: Menu > Classificador
   ├── Defina critérios de qualificação
   ├── Configure pesos por característica
-  ├── Ative classificação automática
-  └── Defina thresholds (Like/Maybe/Dislike)
+  ├── Ative classificação manual
+  └── Defina categorias (Like/Maybe/Dislike)
 ```
 
 ### **👍 Classificação Manual**
@@ -131,7 +131,7 @@ Tempo: 87ms
 📱 Card da Empresa:
   ├── [👍 Like] [🤔 Maybe] [👎 Dislike]
   ├── Informações principais
-  ├── Score da IA (se ativo)
+  ├── Score personalizado
   ├── Botão "Ver Detalhes"
   └── Campo para observações
 ```
@@ -143,12 +143,11 @@ Tempo: 87ms
 ### **🆘 Canais de Suporte**
 ```
 💬 Suporte Disponível:
-  ├── Chat ao vivo (24/7)
-  ├── E-mail: suporte@infyntra.com
-  ├── WhatsApp: +55 11 99999-9999
-  ├── Base de conhecimento
-  ├── Vídeo tutoriais
-  └── Webinars semanais
+  ├── Chat ao vivo via WhatsApp
+  ├── E-mail: matheus@stacksflow.io
+  ├── WhatsApp: +55 11 97676-1886
+  ├── Site: https://matheus.stacksflow.io/
+  └── Documentação completa
 ```
 
 ---
@@ -157,7 +156,7 @@ Tempo: 87ms
 
 **Pronto para começar sua jornada no Infyntra?**
 
-[🚀 **Criar Conta Gratuita**](https://app.infyntra.com/register) • [🎥 **Ver Demo**](https://calendly.com/infyntra-demo)
+[🚀 **Criar Conta Gratuita**](https://matheus.stacksflow.io/) • [🎥 **Ver Demo**](https://matheus.stacksflow.io/)
 
 *Junte-se a milhares de empresas que já transformaram suas vendas*
 

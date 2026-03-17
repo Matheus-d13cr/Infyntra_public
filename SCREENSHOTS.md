@@ -194,7 +194,7 @@
 
 **Quer ver o Infyntra em ação?**
 
-[🎥 **Agendar Demo**](https://calendly.com/infyntra-demo) • [🚀 **Teste Gratuito**](https://app.infyntra.com/register)
+[🎥 **Agendar Demo**](https://matheus.stacksflow.io/) • [🚀 **Teste Gratuito**](https://matheus.stacksflow.io/)
 
 *Experimente todas essas funcionalidades na prática*
 
