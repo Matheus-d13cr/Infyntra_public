@@ -14,7 +14,7 @@
 
 ### **Base URL**
 ```
-https://api.infyntra.com/v1
+https://api.exemplo.com/v1
 ```
 
 ### **Autenticação**
@@ -25,7 +25,7 @@ Content-Type: application/json
 
 ### **Exemplo de Requisição**
 ```bash
-curl -X GET "https://api.infyntra.com/v1/empresas?estado=SP&limite=10" \
+curl -X GET "https://api.exemplo.com/v1/empresas?estado=SP&limite=10" \
   -H "Authorization: Bearer YOUR_API_KEY" \
   -H "Content-Type: application/json"
 ```
@@ -90,7 +90,7 @@ Busca uma empresa específica pelo CNPJ.
 
 #### **Exemplo**
 ```bash
-curl -X GET "https://api.infyntra.com/v1/empresas/12.345.678/0001-90" \
+curl -X GET "https://api.exemplo.com/v1/empresas/12.345.678/0001-90" \
   -H "Authorization: Bearer YOUR_API_KEY"
 ```
 
@@ -141,7 +141,7 @@ Análise de mercado por setor e região.
 
 #### **Exemplo**
 ```bash
-curl -X GET "https://api.infyntra.com/v1/analises/mercado?cnae=6201-5&estado=SP" \
+curl -X GET "https://api.exemplo.com/v1/analises/mercado?cnae=6201-5&estado=SP" \
   -H "Authorization: Bearer YOUR_API_KEY"
 ```
 

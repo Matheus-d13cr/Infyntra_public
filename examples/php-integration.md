@@ -27,7 +27,7 @@ require_once 'vendor/autoload.php';
 use Infyntra\SDK\InfyntraClient;
 
 $client = new InfyntraClient([
-    'api_key' => 'sua-api-key-aqui',
+    'api_key' => 'SUA_API_KEY_AQUI',
     'environment' => 'production', // ou 'sandbox'
     'timeout' => 30
 ]);
@@ -191,4 +191,4 @@ class CRMIntegration {
 
 *Exemplos completos disponíveis no repositório oficial*
 
-[📚 **Documentação Completa**](https://docs.infyntra.com/php) • [💻 **Código no GitHub**](https://github.com/infyntra/php-sdk)
+[📚 **Documentação Completa**](https://docs.exemplo.com/php) • [💻 **Código no GitHub**](https://github.com/exemplo/php-sdk)
