@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Infyntra](logo.svg)
+![Infyntra](logo.png)
 
 **A Maior Base de Dados de Empresas do Brasil**
 
