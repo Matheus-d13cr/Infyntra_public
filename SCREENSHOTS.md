@@ -12,7 +12,7 @@
 
 ## 🏠 **Dashboard Principal**
 
-![Dashboard Principal](screenshots/dashboard-principal.png)
+![Dashboard Principal](screenshots/Dashboard.png)
 
 **Funcionalidades:**
 - Métricas em tempo real
@@ -82,15 +82,15 @@
 
 ---
 
-## 📈 **Dashboard Analytics**
+## 📈 **Página Inicial**
 
-![Dashboard Analytics](screenshots/Dashboard.png)
+![Página Inicial](screenshots/dashboard-principal.png)
 
-**Métricas:**
-- KPIs principais
-- Gráficos de performance
-- Análise temporal
-- Comparativos
+**Apresentação:**
+- Tela de boas-vindas
+- Visão geral da plataforma
+- Acesso às funcionalidades
+- Interface de entrada
 
 ---
 
