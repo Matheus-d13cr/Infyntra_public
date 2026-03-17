@@ -152,37 +152,6 @@ Veja o Infyntra em ação com seus próprios dados!
 
 ---
 
-## ❓ **Perguntas Frequentes**
-
-### **💰 Posso cancelar a qualquer momento?**
-Sim! Não há fidelidade. Cancele quando quiser pelo painel ou suporte.
-
-### **🔄 Posso mudar de plano?**
-Claro! Upgrade imediato ou downgrade no próximo ciclo.
-
-### **📊 Os dados ficam salvos se eu cancelar?**
-Sim, mantemos seus dados por 90 dias para facilitar a reativação.
-
-### **🎯 Posso testar antes de assinar?**
-Sim! Use o plano Starter gratuito ou solicite uma demo personalizada.
-
-### **💳 Há taxa de setup?**
-Não! Todos os planos são ativados gratuitamente.
-
----
-
-## 🏆 **Garantia de Satisfação**
-
-### **✅ 30 Dias de Garantia**
-Não ficou satisfeito? Devolvemos 100% do seu dinheiro nos primeiros 30 dias.
-
-### **🎯 Garantia de Resultados**
-- **3x mais leads qualificados** ou seu dinheiro de volta
-- **50% redução no tempo** de prospecção garantida
-- **ROI positivo** em até 60 dias
-
----
-
 <div align="center">
 
 **Pronto para revolucionar sua prospecção B2B?**
