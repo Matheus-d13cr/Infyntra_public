@@ -4,7 +4,7 @@
 
 ![Infyntra](logo.png)
 
-**A Maior Base de Dados de Empresas do Brasil**
+**Construindo uma base empresarial global, já estruturada no Brasil**
 
 [![PHP](https://img.shields.io/badge/PHP-8.1%2B-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 [![SQLite](https://img.shields.io/badge/SQLite-FTS5-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
@@ -24,8 +24,8 @@
 **Infyntra** é uma plataforma de inteligência de dados empresariais que revoluciona a prospecção B2B no Brasil. Com uma base de **69+ milhões de empresas**, oferecemos ferramentas avançadas para encontrar, analisar e qualificar leads com precisão cirúrgica.
 
 ### **🚀 Por que Infyntra?**
-- **Base Massiva**: 69+ milhões de empresas brasileiras atualizadas
-- **Performance Extrema**: Buscas em menos de 100ms
+- **Base Estruturada**: 69+ milhões de empresas brasileiras atualizadas
+- **Performance Otimizada**: Buscas em menos de 100ms
 - **Classificação Avançada**: Sistema de qualificação de leads
 - **API Robusta**: Integração simples e documentada
 - **Análise de Mercado**: Insights profundos por setor e região
@@ -49,7 +49,7 @@
 ### 🎯 **Classificação de Leads**
 - **Pool Personalizado**: 10k empresas por usuário
 - **Sistema de Classificação**: Like, Dislike, Maybe
-- **Processamento em Lote**: Eficiência máxima
+- **Processamento em Lote**: Alta eficiência
 - **Sistema de Scoring**: Qualificação de leads
 
 ### 💼 **Ferramentas B2B**
@@ -66,7 +66,7 @@
 
 | Métrica | Valor | Descrição |
 |---------|-------|-----------|
-| 🏢 **Empresas** | **69+ Milhões** | Base completa de empresas brasileiras |
+| 🏢 **Empresas** | **69+ Milhões** | Base estruturada de empresas brasileiras |
 | ⚡ **Performance** | **< 100ms** | Tempo médio de resposta das buscas |
 | 🎯 **Precisão** | **98.5%** | Dados validados e atualizados |
 | 🔄 **Uptime** | **99.9%** | Disponibilidade da plataforma |

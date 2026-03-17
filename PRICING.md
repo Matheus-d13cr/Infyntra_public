@@ -130,7 +130,7 @@
 - 💼 **Faturamento Corporativo** (Personalizado)
 
 ### **📅 Ciclos de Cobrança**
-- **Mensal**: Flexibilidade máxima
+- **Mensal**: Flexibilidade total
 - **Anual**: Desconto especial (consulte vendas)
 
 ---
