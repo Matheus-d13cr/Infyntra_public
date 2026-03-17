@@ -135,20 +135,6 @@
 
 ---
 
-## 🎁 **Promoções Especiais**
-
-### **🚀 Desconto de Lançamento**
-- **30% OFF** nos primeiros 3 meses
-- **Código**: `INFYNTRA30`
-- **Válido até**: 31/12/2024
-
-### **📚 Plano Educacional**
-- **50% de desconto** para universidades
-- **Gratuito** para estudantes (com comprovação)
-- **Contato**: matheus@stacksflow.io
-
----
-
 ## 📞 **Fale com Vendas**
 
 ### **🎯 Quer um plano personalizado?**
