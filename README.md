@@ -77,6 +77,30 @@
 
 ---
 
+## 🖥️ **Screenshots**
+
+### Dashboard Principal
+![Dashboard](screenshots/dashboard-principal.png)
+*Visão geral com métricas em tempo real e análises de mercado*
+
+### Busca Avançada
+![Busca](screenshots/busca-avancada.png)
+*Interface intuitiva com filtros poderosos e resultados instantâneos*
+
+### Classificador de Leads
+![Classificador](screenshots/classificador-leads.png)
+*Sistema de classificação inteligente com IA integrada*
+
+### Análise de Mercado
+![Análise](screenshots/analise-mercado.png)
+*Insights profundos por setor, região e período*
+
+### CRM Integrado
+![CRM](screenshots/crm-integrado.png)
+*Gestão completa de leads e oportunidades*
+
+---
+
 ## 🔗 **API**
 
 ### **Endpoints Principais**
@@ -174,6 +198,7 @@ GET /api/empresas?estado=SP&cnae=6201-5&limite=25
 - [🚀 **Guia de Início Rápido**](docs/quickstart.md) - Comece em 10 minutos
 - [🎓 **Tutoriais Completos**](docs/tutorials.md) - Aprenda passo a passo
 - [📋 **Referência da API**](docs/api.md) - Documentação técnica completa
+- [📸 **Screenshots**](SCREENSHOTS.md) - Veja a interface em ação
 
 ### **💻 Exemplos de Código**
 - [🐘 **Integração PHP**](examples/php-integration.md) - Exemplos práticos em PHP
